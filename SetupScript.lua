@@ -227,7 +227,7 @@ local function createGui()
 	
 	local AutoClickButton = Instance.new("TextButton", screenGui)
 	AutoClickButton.Size = UDim2.new(0.042, 0,0.074, 0)
-	AutoClickButton.Position = UDim2.new(0.752, 0,0.125, 0)
+	AutoClickButton.Position = UDim2.new(0.752, 0,0.025, 0)
 	AutoClickButton.Text = "Auto Click (Disabled)"
 	AutoClickButton.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 	AutoClickButton.BackgroundTransparency = 0.5
